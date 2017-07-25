@@ -1,0 +1,47 @@
+{
+    "_id": {
+        "$oid": "5744b9f30b46436c282c21d7"
+    },
+    "user": "5709be4becb31c0300765e00",
+    "estab": "56f9e3dfe4b05e6b92be95f4",
+    "messages": [
+        {
+            "text": "Olá, gostaria de saber algo sobre o produto",
+            "date": "2016-05-16T14:04:04.879Z",
+            "from": "5709be4becb31c0300765e00"
+        },
+        {
+            "text": "Sim, em que posso ajudar? Qual o Produto?",
+            "date": "2016-05-16T14:04:04.879Z",
+            "from": "56f9e3dfe4b05e6b92be95f4"
+        },
+        {
+            "text": "Qual da data de validade do Sal?",
+            "date": "2016-05-16T14:04:04.879Z",
+            "from": "5709be4becb31c0300765e00"
+        }
+    ]
+}{
+    "_id": {
+        "$oid": "5744b9f30b46436c282c21d8"
+    },
+    "user": "57095746faca0e4a16be095d",
+    "estab": "56f9e3dfe4b05e6b92be95f4",
+    "messages": [
+        {
+            "text": "Olá, tudo bem com você?",
+            "date": "2016-05-16T14:04:04.879Z",
+            "from": "57095746faca0e4a16be095d"
+        },
+        {
+            "text": "Sim, em que posso ajudar?",
+            "date": "2016-05-16T14:04:04.879Z",
+            "from": "56f9e3dfe4b05e6b92be95f4"
+        },
+        {
+            "text": "Tenho uma dúvida em relação ao produto!",
+            "date": "2016-05-16T14:04:04.879Z",
+            "from": "57095746faca0e4a16be095d"
+        }
+    ]
+}

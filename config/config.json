@@ -1,0 +1,8 @@
+{
+	"secret": "isnottrash",
+	"mongo_uri": {
+		"dev": "mongodb://localhost/vendarapidahealth",
+		"test": "mongodb://localhost/vendarapida-test",
+		"heroku": "mongodb://bruno:842100@ds025603.mlab.com:25603/isnottrash"
+	}
+}

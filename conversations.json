@@ -1,0 +1,47 @@
+{
+    "_id": {
+        "$oid": "5745feeb5920f76c8bff7b0d"
+    },
+    "estab": {
+        "$oid": "56f9e3dfe4b05e6b92be95f4"
+    },
+    "user": {
+        "$oid": "5709be4becb31c0300765e00"
+    },
+    "messages": [
+        [
+            {
+                "text": "\"Olá, gostari de saber sobre a promoção do leite\"",
+                "_id": {
+                    "$oid": "5745feeb97d30ebe1a4673d6"
+                },
+                "date": {
+                    "$date": "2016-05-25T19:37:15.413Z"
+                }
+            }
+        ],
+        [
+            {
+                "text": "\"Qual a dúvida? Pode prossegit...\"",
+                "_id": {
+                    "$oid": "5745ff2f97d30ebe1a4673d7"
+                },
+                "date": {
+                    "$date": "2016-05-25T19:38:23.072Z"
+                }
+            }
+        ],
+        [
+            {
+                "text": "\"Qual a data de validade?\"",
+                "_id": {
+                    "$oid": "5745ff4197d30ebe1a4673d8"
+                },
+                "date": {
+                    "$date": "2016-05-25T19:38:41.724Z"
+                }
+            }
+        ]
+    ],
+    "__v": 0
+}

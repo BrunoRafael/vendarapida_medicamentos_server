@@ -1,0 +1,61 @@
+{
+  "name": "isnnottrash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "sudo NODE_ENV=test ./node_modules/.bin/mocha ./api/test/chatTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoRafael/isNotTrash-server.git"
+  },
+  "author": "Diego Augusto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoRafael/isNotTrash-server/issues"
+  },
+  "homepage": "https://github.com/BrunoRafael/isNotTrash-server#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "1.14.2",
+    "cloudinary": "1.3.1",
+    "cors": "2.7.1",
+    "express": "4.13.4",
+    "find": "0.2.4",
+    "generate-pincode": "^3.0.1",
+    "gulp": "~3.9.x",
+    "gulp-concat": "~2.2.0",
+    "gulp-minify-css": "~0.3.0",
+    "gulp-rename": "~1.2.0",
+    "gulp-sass": "~2.0.4",
+    "hashids": "^1.1.0",
+    "jsonwebtoken": "5.7.0",
+    "mocha-mongoose": "1.1.1",
+    "mongodb": "2.1.16",
+    "mongoose": "4.2.4",
+    "morgan": "1.6.1",
+    "mquery": "1.6.3",
+    "nodemailer": "2.2.1",
+    "nodemon": "1.9.1",
+    "path": "0.12.7",
+    "sendgrid": "^3.0.11",
+    "sendgrid-rest": "^2.2.1",
+    "socket.io": "1.4.5",
+    "validator": "4.6.1"
+  },
+  "engines": {
+    "node": "4.2.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "2.0.1",
+    "gulp-util": "~2.2.14",
+    "mocha": "^2.5.3",
+    "shelljs": "~0.3.0",
+    "should": "8.2.2",
+    "superagent": "1.7.2",
+    "supertest": "1.2.0"
+  }
+}
